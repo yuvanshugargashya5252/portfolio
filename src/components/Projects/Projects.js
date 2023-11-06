@@ -40,6 +40,7 @@ function Projects() {
               description="transforms long length given urls to short length by generating
               short unique id(mongoDb , node.js, express"
               ghLink="https://github.com/yuvanshugargashya/url-shortner.git"
+              demoLink="https://yuvanshu-urls.vercel.app/"
               
             />
           </Col>
@@ -65,6 +66,7 @@ function Projects() {
               (react.js , api)
               "
               ghLink="https://github.com/yuvanshugargashya/ai-images-generator.git"
+              demoLink="https://yuvanshu-ai.vercel.app/"
               
             />
           </Col>
