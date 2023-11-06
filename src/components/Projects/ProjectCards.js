@@ -31,7 +31,7 @@ function ProjectCards(props) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            {"Project Link"}
           </Button>
         )}
       </Card.Body>
