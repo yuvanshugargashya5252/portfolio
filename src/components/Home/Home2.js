@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
+import Button from "react-bootstrap/Button";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -51,6 +52,39 @@ function Home2() {
                 <b className="purple"> React.js </b>
               </i>
             </p>
+            <p className="home-about-body">
+              some of my live projects
+              <Button
+            variant="primary"
+            href="https://yuvanshu-urls.vercel.app/"
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            url shortner/customization
+            
+          </Button>
+          <Button
+            variant="primary"
+            href="https://yuvanshu-ai.vercel.app/"
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            AI images generator
+            
+          </Button>
+
+          <Button
+            variant="primary"
+            href="https://yuvanshugargashya.github.io/mytasks/"
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            Todos list
+            
+          </Button>
+            </p>
+
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
