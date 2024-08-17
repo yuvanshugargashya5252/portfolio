@@ -1,5 +1,3 @@
-/* WorkExperience.css */
-
 .work-section {
     padding-top: 80px; /* Adjust padding to avoid overlap with navbar */
   }
@@ -17,6 +15,9 @@
   .skills-list,
   .tools-list {
     margin-top: 20px;
+    max-width: 800px; /* Set a maximum width for centering */
+    margin-left: auto; /* Center horizontally */
+    margin-right: auto; /* Center horizontally */
   }
   
   .experience-list .list-group-item,
