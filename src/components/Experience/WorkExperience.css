@@ -1,0 +1,40 @@
+/* WorkExperience.css */
+
+.work-section {
+    padding-top: 80px; /* Adjust padding to avoid overlap with navbar */
+  }
+  
+  .section-heading {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .purple {
+    color: #6f42c1; /* Purple color for highlighting */
+  }
+  
+  .experience-list,
+  .skills-list,
+  .tools-list {
+    margin-top: 20px;
+  }
+  
+  .experience-list .list-group-item,
+  .skills-list .list-group-item,
+  .tools-list .list-group-item {
+    border: none;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .experience-list .list-group-item h5 {
+    margin-bottom: 5px;
+  }
+  
+  .about-img img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
