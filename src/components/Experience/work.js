@@ -36,7 +36,7 @@ function WorkExperience() {
                 <ListGroup.Item>
                   <h5>Associate Software Developer</h5>
                   <h7>Indoqubix Cloudtech</h7>
-                  <p>January 2024 - February 2025</p>
+                  <p>January 2024 - March 2025</p>
                   <ul>
                     <p>
                       I have been an integral part of my company as a Full Stack Developer, expertly managing both
