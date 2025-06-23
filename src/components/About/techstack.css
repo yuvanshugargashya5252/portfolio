@@ -1,0 +1,16 @@
+.tech-icons {
+  font-size: 3rem;
+  margin: 15px 0;
+  transition: transform 0.3s;
+}
+
+.tech-icons:hover {
+  transform: scale(1.2);
+  color: #6f42c1;
+}
+
+.tech-icons p {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #6c757d; /* optional grayish tone */
+}
