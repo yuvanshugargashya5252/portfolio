@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Yuvanshu Gargashya </span>
             <br /> Innovative and results-driven Software Engineer with deep expertise in Full-Stack development along with  
 Mobile App development, specializing in Angular, React, Next.js, NestJS, Node.js, Flutter, and Java Spring  
-Boot. Skilled in architecting and deploying scalable, event-driven systems on AWS, leveraging services like 
+Boot , Python. Skilled in architecting and deploying scalable, event-driven systems on AWS, leveraging services like 
 SQS, SNS, and Lambda for seamless automation and lifecycle management. Proficient in database 
 optimization with MySQL and designing high performance cloud-native applications. Experienced in 
 integrating real-time communication platforms such as Azure Communication Services (ACS), VAPI AI and 
