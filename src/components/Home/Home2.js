@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Currently i am working as Sr. Executive Software Engineer at Knowledge Excel Pvt. Ltd.
+              Currently i am working as Sr. Executive Software Engineer at Palira Inc
               <br />
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️

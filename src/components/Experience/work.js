@@ -19,8 +19,8 @@ function WorkExperience() {
               <ListGroup>
                 <ListGroup.Item>
                   <h5>Sr. Executive Software Engineer</h5>
-                  <h7>Knowledge Excel Pvt. Ltd</h7>
-                  <p>March 2025 - Present</p>
+                  <h7>Palira Inc</h7>
+                  <p>January 2024 - Present</p>
                   <ul>
                     <p>
                       At my current company, I continue to work as Sr. Full Stack Developer, expanding my expertise into
@@ -33,7 +33,7 @@ function WorkExperience() {
                     </p>
                   </ul>
                 </ListGroup.Item>
-                <ListGroup.Item>
+                {/* <ListGroup.Item>
                   <h5>Associate Software Developer</h5>
                   <h7>Indoqubix Cloudtech</h7>
                   <p>January 2024 - March 2025</p>
@@ -49,7 +49,7 @@ function WorkExperience() {
                       while securing applications with Azure Entra ID, AWS Cognito, and Google authentication. 
                     </p>
                   </ul>
-                </ListGroup.Item>
+                </ListGroup.Item> */}
                 {/* Add more work experiences as needed */}
               </ListGroup>
             </div>
